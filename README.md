@@ -1,3 +1,3 @@
 # BackendNodeJS
 
-A repository containing source codes for a backend development course using NodeJS.
+A repository containing source codes for practicing Javascript.
